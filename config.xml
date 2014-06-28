@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="dx.clientapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Cloud Bridge Client</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="seandu2008@hotmail.com" href="http://www.cloud-bridge.net">
+        Cloud Bridge Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    
+    <preference name="Fullscreen" value="true" />
+    
+    <icon src="res/logo.png" />
+
+</widget>
