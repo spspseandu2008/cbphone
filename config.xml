@@ -9,9 +9,8 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    
+    <icon src="res/tool56.png" />
+        
     <preference name="Fullscreen" value="true" />
-    
-    <icon src="res/logo.png" />
-
+ 
 </widget>
